@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-typescript",
+  "version": "1.0.0",
+  "description": "ESLint typescript sharable config for thesis wide projects",
+  "main": "index.js",
+  "repository": "https://github.com/thesis/eslint-config-typescript.git",
+  "author": "thesis",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.31.2",
+    "@typescript-eslint/parser": "^4.31.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
