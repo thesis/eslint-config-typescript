@@ -14,7 +14,7 @@
  2. In your `.eslintrc` add:
  ```js
 {
-  "extends": ["eslint-config-typescript"],
+  "extends": ["@thesis-co"],
   "parserOptions": {
     "project": "./.tsconfig-eslint.json"
   },
