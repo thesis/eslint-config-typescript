@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-typescript",
+  "name": "@thesis-co/eslint-config",
   "version": "1.0.0",
   "description": "ESLint TypeScript shareable config for Thesis wide projects",
   "main": "index.js",
